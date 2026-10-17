@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "name": "Giant human foosball",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 2,
+    "name": "Giant Jenga",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 3,
+    "name": "Inflatable boxing ring",
+    "cat": 0,
+    "review": true
+  },
+  {
+    "n": 4,
+    "name": "Mechanical bull riding",
+    "cat": 0,
+    "review": true
+  },
+  {
+    "n": 5,
+    "name": "Inflatable obstacle course",
+    "cat": 0,
+    "review": true
+  },
+  {
+    "n": 6,
+    "name": "Human-sized inflatable bowling",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 7,
+    "name": "Giant Connect Four",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 8,
+    "name": "Portable mini golf course",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 9,
+    "name": "Electronic reaction wall",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 10,
+    "name": "Basketball arcade shooting machines",
+    "cat": 0,
+    "review": false
+  },
+  {
+    "n": 11,
+    "name": "Carnival midway booths",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 12,
+    "name": "High-striker strength tester",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 13,
+    "name": "Ring toss challenge",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 14,
+    "name": "Darts and balloon pop",
+    "cat": 1,
+    "review": true
+  },
+  {
+    "n": 15,
+    "name": "Duck fishing game",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 16,
+    "name": "Plinko prize wall",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 17,
+    "name": "Lucky spin wheel",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 18,
+    "name": "Giant dice challenge",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 19,
+    "name": "Mini casino tables",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 20,
+    "name": "Mystery prize vending machine",
+    "cat": 1,
+    "review": false
+  },
+  {
+    "n": 21,
+    "name": "360-degree video booth",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 22,
+    "name": "Glam photo booth",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 23,
+    "name": "AI transformation booth",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 24,
+    "name": "Green-screen studio",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 25,
+    "name": "Slow-motion video booth",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 26,
+    "name": "Glamour portrait studio",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 27,
+    "name": "Confessional video booth",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 28,
+    "name": "Roaming event photographer",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 29,
+    "name": "Custom magazine-cover station",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 30,
+    "name": "Digital caricature artist",
+    "cat": 2,
+    "review": false
+  },
+  {
+    "n": 31,
+    "name": "LED robot performers",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 32,
+    "name": "Stilt walkers",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 33,
+    "name": "Close-up magicians",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 34,
+    "name": "Mentalists",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 35,
+    "name": "Roaming caricature artists",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 36,
+    "name": "Living statues",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 37,
+    "name": "Fire performers",
+    "cat": 3,
+    "review": true
+  },
+  {
+    "n": 38,
+    "name": "Aerial performers",
+    "cat": 3,
+    "review": true
+  },
+  {
+    "n": 39,
+    "name": "Professional dance crew",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 40,
+    "name": "Impersonators and celebrity lookalikes",
+    "cat": 3,
+    "review": false
+  },
+  {
+    "n": 41,
+    "name": "Silent disco headphones",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 42,
+    "name": "LED dance floor",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 43,
+    "name": "Karaoke booth",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 44,
+    "name": "Professional DJ booth",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 45,
+    "name": "Live band",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 46,
+    "name": "Glow-in-the-dark UV zone",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 47,
+    "name": "CO₂ effects cannons",
+    "cat": 4,
+    "review": true
+  },
+  {
+    "n": 48,
+    "name": "LED foam batons and light-up accessories",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 49,
+    "name": "Interactive LED dance wall",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 50,
+    "name": "Silent karaoke challenge",
+    "cat": 4,
+    "review": false
+  },
+  {
+    "n": 51,
+    "name": "Live cocktail mixology bar",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 52,
+    "name": "Molecular mixology station",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 53,
+    "name": "Mocktail laboratory",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 54,
+    "name": "Nitrogen ice cream station",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 55,
+    "name": "Chocolate fountain station",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 56,
+    "name": "Gourmet popcorn bar",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 57,
+    "name": "Live dessert flambé station",
+    "cat": 5,
+    "review": true
+  },
+  {
+    "n": 58,
+    "name": "Blindfolded tasting challenge",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 59,
+    "name": "Cheese and gourmet tasting stations",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 60,
+    "name": "Personalised candy bar",
+    "cat": 5,
+    "review": false
+  },
+  {
+    "n": 61,
+    "name": "Ball pit for adults",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 62,
+    "name": "Neon tunnel entrance",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 63,
+    "name": "Red-carpet paparazzi experience",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 64,
+    "name": "Secret speakeasy lounge",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 65,
+    "name": "Immersive themed room",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 66,
+    "name": "Mirror maze",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 67,
+    "name": "LED infinity mirror installation",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 68,
+    "name": "Giant inflatable lounge furniture",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 69,
+    "name": "Mosaic photo wall",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 70,
+    "name": "Interactive graffiti wall",
+    "cat": 6,
+    "review": false
+  },
+  {
+    "n": 71,
+    "name": "VR gaming arena",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 72,
+    "name": "Professional racing simulators",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 73,
+    "name": "Portable escape-room challenge",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 74,
+    "name": "Archery tag",
+    "cat": 7,
+    "review": true
+  },
+  {
+    "n": 75,
+    "name": "Laser tag arena",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 76,
+    "name": "Portable axe-throwing experience",
+    "cat": 7,
+    "review": true
+  },
+  {
+    "n": 77,
+    "name": "Fencing challenge",
+    "cat": 7,
+    "review": true
+  },
+  {
+    "n": 78,
+    "name": "Golf simulator",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 79,
+    "name": "Table tennis tournament",
+    "cat": 7,
+    "review": false
+  },
+  {
+    "n": 80,
+    "name": "Human claw machine",
+    "cat": 7,
+    "review": true
+  },
+  {
+    "n": 81,
+    "name": "Express massage lounge",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 82,
+    "name": "Temporary tattoo artists",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 83,
+    "name": "Glitter bar",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 84,
+    "name": "Professional makeup touch-up station",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 85,
+    "name": "Perfume-blending workshop",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 86,
+    "name": "Custom sneaker personalisation",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 87,
+    "name": "Live calligraphy and engraving",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 88,
+    "name": "Cigar-rolling demonstration",
+    "cat": 8,
+    "review": true
+  },
+  {
+    "n": 89,
+    "name": "Premium grooming bar",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 90,
+    "name": "Fortune-telling lounge",
+    "cat": 8,
+    "review": false
+  },
+  {
+    "n": 91,
+    "name": "Inflatable slide",
+    "cat": 9,
+    "review": true
+  },
+  {
+    "n": 92,
+    "name": "Mobile game-show stage",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 93,
+    "name": "Cash-grab wind booth",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 94,
+    "name": "Prize claw machine",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 95,
+    "name": "Interactive digital graffiti tunnel",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 96,
+    "name": "Indoor drone light performance",
+    "cat": 9,
+    "review": true
+  },
+  {
+    "n": 97,
+    "name": "Confetti and streamer cannons",
+    "cat": 9,
+    "review": true
+  },
+  {
+    "n": 98,
+    "name": "Giant LED screen gaming tournament",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 99,
+    "name": "Human slot machine or prize reveal installation",
+    "cat": 9,
+    "review": false
+  },
+  {
+    "n": 100,
+    "name": "Surprise celebrity or headline performer",
+    "cat": 9,
+    "review": false
+  }
+]
