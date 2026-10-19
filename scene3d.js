@@ -1,9 +1,4 @@
-/*
- * ADVERTISING & MORE · Party Universe
- * Real, independently animated WebGL meshes, without a third-party framework.
- * Procedural coffee cup, saucer, logo texture, rotating mirrored disco ball,
- * helium balloons, star, carnival ring, arcade joystick, confetti and coffee steam.
- */
+
 (()=>{
 'use strict';
 const canvas=document.getElementById('party-webgl');if(!canvas)return;
