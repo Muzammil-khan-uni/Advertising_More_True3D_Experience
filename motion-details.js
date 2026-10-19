@@ -1,4 +1,3 @@
-/* Site-wide physically-inspired interaction — optional and reduced-motion-aware. */
 (()=>{
 const reduce=matchMedia('(prefers-reduced-motion: reduce)');if(reduce.matches||!matchMedia('(pointer:fine)').matches)return;
 const cards=document.querySelectorAll('.feature-card');
